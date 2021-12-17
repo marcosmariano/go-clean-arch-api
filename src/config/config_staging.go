@@ -1,3 +1,6 @@
+//go:build staging
+// +build staging
+
 package config
 
 const (
