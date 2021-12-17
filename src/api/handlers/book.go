@@ -6,10 +6,10 @@ import (
 	"net/http"
 
 	"github.com/codegangsta/negroni"
-	"github.com/eminetto/clean-architecture-go-v2/usecase/book"
 	"github.com/gorilla/mux"
 	"github.com/marcosmariano/go-clean-arch-api/src/api/presenter"
 	"github.com/marcosmariano/go-clean-arch-api/src/entity"
+	"github.com/marcosmariano/go-clean-arch-api/src/usecase/book"
 )
 
 func listBooks(service book.UseCase) http.Handler {
