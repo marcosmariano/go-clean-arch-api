@@ -9,3 +9,8 @@
 ```
   make test
 ```
+
+## Run API
+```
+  make run-api
+```

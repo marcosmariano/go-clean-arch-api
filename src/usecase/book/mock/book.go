@@ -5,8 +5,8 @@
 package mock
 
 import (
-	entity "github.com/eminetto/clean-architecture-go-v2/entity"
 	gomock "github.com/golang/mock/gomock"
+	"github.com/marcosmariano/go-clean-arch-api/src/entity"
 	reflect "reflect"
 )
 

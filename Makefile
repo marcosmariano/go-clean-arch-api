@@ -9,6 +9,9 @@ BIN_DIR = $(PWD)/bin
 
 .PHONY: build
 
+run-api:
+	./bin/src/api
+	
 clean:
 	rm -rf bin/*
 
