@@ -1,2 +1,11 @@
-# go-clean-arch-api
-API em Golang utilizando clean architecture
+# Clean Architecture in Go
+
+## Build
+```
+  make
+```
+
+## Run tests
+```
+  make test
+```
