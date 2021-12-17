@@ -1,4 +1,4 @@
-# Clean Architecture in Go
+# Clean Arch in Go
 
 ## Build
 ```
